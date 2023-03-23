@@ -1,0 +1,8 @@
+apiVersion: pk.dev/v1
+kind: CleanerRs
+metadata:
+  labels:
+  name: cleanerrs-sample-2
+spec:
+  ttl: 10
+  # TODO(user): Add fields here
